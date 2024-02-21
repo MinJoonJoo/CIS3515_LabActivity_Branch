@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Hello World</string>
     <string name="greeting_text">Hello, %1$s!</string>
+    <string name="error_message_no_name">Please enter your name.</string>
 </resources>
